@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/login"
+  to = "http://packtcar-env.eba-prwpg5iq.us-east-2.elasticbeanstalk.com/login"
+  status = 200
+  force = true
